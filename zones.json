@@ -1,0 +1,14 @@
+{
+  "camera_source": 0,
+  "zones": [
+    {
+      "id": "zone_1",
+      "name": "Zone 1",
+      "x1": 80,
+      "y1": 163,
+      "x2": 592,
+      "y2": 445,
+      "threshold": 5
+    }
+  ]
+}
